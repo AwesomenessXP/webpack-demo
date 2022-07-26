@@ -1,3 +1,4 @@
 export default function printMe() {
-    console.log('I gt called from print.js!');
+    // i made an error to test the source map for errors
+    cosnole.log('I gt called from print.js!');
 }
